@@ -64,7 +64,8 @@ END OF RESET CSS
     align-items: center;
     justify-content: center; }
     .first-black header .logo a {
-      display: block; }
+      display: block;
+      max-height: 70px; }
     .first-black header .navbar {
       display: flex;
       margin-left: 20.6979%;
