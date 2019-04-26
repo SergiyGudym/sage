@@ -67,6 +67,11 @@ END OF RESET CSS
         padding: 0px 19.53% 0px 19.53%;
         align-items: center;
         justify-content: center;
+        .logo {
+            a {
+                display: block;
+            }
+        }
         .navbar {
             display: flex;
             margin-left: 20.6979%;
