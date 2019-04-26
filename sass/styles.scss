@@ -68,7 +68,7 @@ END OF RESET CSS
         align-items: center;
         justify-content: center;
         .logo {
-
+            display: block;
         }
         .navbar {
             display: flex;
@@ -138,8 +138,6 @@ END OF RESET CSS
         height: 1px;
         background-color: #ffffff;
         opacity: 0.1;
-        position: absolute;
-        top: 70px;
     }
     .first-text {
         text-align: center;

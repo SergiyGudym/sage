@@ -63,6 +63,8 @@ END OF RESET CSS
     padding: 0px 19.53% 0px 19.53%;
     align-items: center;
     justify-content: center; }
+    .first-black header .logo {
+      display: block; }
     .first-black header .navbar {
       display: flex;
       margin-left: 20.6979%;
@@ -118,9 +120,7 @@ END OF RESET CSS
     width: 100%;
     height: 1px;
     background-color: #ffffff;
-    opacity: 0.1;
-    position: absolute;
-    top: 70px; }
+    opacity: 0.1; }
   .first-black .first-text {
     text-align: center; }
     .first-black .first-text h1 {
